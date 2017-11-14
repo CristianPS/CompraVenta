@@ -18,6 +18,11 @@ public class Anuncio
     private Location location; //Leer como se usa.
     private float price;
 
+
+    public Anuncio(String titulo)
+    {
+        title = titulo;
+    }
     public Anuncio(Usuario u, Image[] im, String tit, float prec)
     {
         user = u;
