@@ -1,4 +1,5 @@
-package com.example.cristian.compraventa;
+/*package com.example.cristian.compraventa;
+
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -56,3 +57,4 @@ public class CustomGridViewActivity extends BaseAdapter {
         return gridViewAndroid;
     }
 }
+*/

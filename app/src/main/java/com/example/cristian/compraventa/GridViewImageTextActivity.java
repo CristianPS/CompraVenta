@@ -1,4 +1,4 @@
-package com.example.cristian.compraventa;
+/*package com.example.cristian.compraventa;
 
 
 import android.os.Bundle;
@@ -44,3 +44,4 @@ public class GridViewImageTextActivity extends AppCompatActivity {
 
     }
 }
+*/
